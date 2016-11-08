@@ -11,7 +11,7 @@ class Profiler(object):
         
 font0 = xlwt.Font()
 font0.name = 'Times New Roman'
-font0.colour_index = 2
+font0.colour_index = 3
 font0.bold = True
 
 style0 = xlwt.XFStyle()
